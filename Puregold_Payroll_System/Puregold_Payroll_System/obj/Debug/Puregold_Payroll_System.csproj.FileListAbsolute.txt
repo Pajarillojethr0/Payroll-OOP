@@ -1,0 +1,12 @@
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\bin\Debug\Puregold_Payroll_System.exe.config
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\bin\Debug\Puregold_Payroll_System.exe
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\bin\Debug\Puregold_Payroll_System.pdb
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\obj\Debug\Puregold_Payroll_System.csproj.AssemblyReference.cache
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\obj\Debug\Puregold_Payroll_System.Properties.Resources.resources
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\obj\Debug\Puregold_Payroll_System.csproj.GenerateResource.cache
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\obj\Debug\Puregold_Payroll_System.csproj.CoreCompileInputs.cache
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\obj\Debug\Puregold_Payroll_System.exe
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\obj\Debug\Puregold_Payroll_System.pdb
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\obj\Debug\Puregold_Payroll_System.loginForm.resources
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\bin\Debug\Payroll.accdb
+C:\Users\jeivee\Desktop\2nd Year\2nd Sem\Object Oriented Programming\Puregold_Payroll_System\Puregold_Payroll_System\obj\Debug\Puregold_Payroll_System.Form2.resources
