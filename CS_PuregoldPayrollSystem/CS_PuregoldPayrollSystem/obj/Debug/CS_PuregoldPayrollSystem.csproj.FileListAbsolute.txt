@@ -1,0 +1,12 @@
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\bin\Debug\CS_PuregoldPayrollSystem.exe.config
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\bin\Debug\CS_PuregoldPayrollSystem.exe
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\bin\Debug\CS_PuregoldPayrollSystem.pdb
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\obj\Debug\CS_PuregoldPayrollSystem.csproj.AssemblyReference.cache
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\obj\Debug\CS_PuregoldPayrollSystem.logInForm.resources
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\obj\Debug\CS_PuregoldPayrollSystem.Properties.Resources.resources
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\obj\Debug\CS_PuregoldPayrollSystem.csproj.GenerateResource.cache
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\obj\Debug\CS_PuregoldPayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\obj\Debug\CS_PuregoldPayrollSystem.exe
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\obj\Debug\CS_PuregoldPayrollSystem.pdb
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\bin\Debug\Payroll.accdb
+C:\Users\jeivee\source\repos\CS_PuregoldPayrollSystem\CS_PuregoldPayrollSystem\obj\Debug\CS_PuregoldPayrollSystem.Form2.resources
